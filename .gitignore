@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 
+/sanityytbuild/node_modules
 # testing
 /coverage
 
